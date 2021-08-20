@@ -1,2 +1,2 @@
 # iaas
-Reusable infrastructure as a service (IaaS
+Reusable infrastructure as a service (IaaS)
